@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>EXIRAF Precision Systems | Mecanizado y Engranajes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>EXIRAF <span>Precision Systems</span></h1>
+        <nav>
+            <a href="#sobre">Sobre Nosotros</a>
+            <a href="#servicios">Servicios</a>
+            <a href="#productos">Productos</a>
+            <a href="#proceso">Proceso</a>
+            <a href="#contacto">Contacto</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="hero-content">
+        <h2>Sistemas de Engranajes y Mecanizado de Precisión</h2>
+        <p>Especialistas en fabricación industrial en Arganda del Rey.</p>
+        <a href="#contacto" class="btn">Solicitar Presupuesto</a>
+    </div>
+</section>
+
+<section id="sobre" class="section">
+    <div class="container">
+        <h2>Sobre Nosotros</h2>
+        <p>EXIRAF Precision Systems nace en Arganda del Rey fundada por 
+        Sergio Expósito, Rubén Irazabal y Marcos Fernández. 
+        Nuestro objetivo es ofrecer soluciones de mecanizado y sistemas de engranajes 
+        con máxima precisión, compromiso y calidad.</p>
+    </div>
+</section>
+
+<section id="servicios" class="section gray">
+    <div class="container">
+        <h2>Servicios</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Mecanizado CNC</h3>
+                <p>Fabricación de piezas industriales con alta precisión.</p>
+            </div>
+            <div class="card">
+                <h3>Diseño CAD</h3>
+                <p>Desarrollo técnico y modelado 3D personalizado.</p>
+            </div>
+            <div class="card">
+                <h3>Sistemas de Transmisión</h3>
+                <p>Soluciones completas para transmisión mecánica.</p>
+            </div>
+            <div class="card">
+                <h3>Prototipado</h3>
+                <p>Producción inicial para pequeñas empresas emergentes.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="productos" class="section">
+    <div class="container">
+        <h2>Productos</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Engranajes Cilíndricos</h3>
+                <p>Fabricación en acero tratado y materiales especiales.</p>
+            </div>
+            <div class="card">
+                <h3>Engranajes Helicoidales</h3>
+                <p>Mayor eficiencia y reducción de vibraciones.</p>
+            </div>
+            <div class="card">
+                <h3>Cajas de Engranajes</h3>
+                <p>Sistemas de transmisión completos y personalizados.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="proceso" class="section gray">
+    <div class="container">
+        <h2>Nuestro Proceso</h2>
+        <ol>
+            <li>Análisis técnico del proyecto</li>
+            <li>Diseño y simulación CAD</li>
+            <li>Mecanizado CNC</li>
+            <li>Control de calidad</li>
+            <li>Entrega y seguimiento</li>
+        </ol>
+    </div>
+</section>
+
+<section id="contacto" class="section">
+    <div class="container">
+        <h2>Contacto</h2>
+        <p>📍 Arganda del Rey, Madrid</p>
+        <p>📞 +34 600 123 456</p>
+        <p>📧 info@exirafprecision.com</p>
+
+        <a href="#" class="btn secondary">Descargar Catálogo</a>
+
+        <form>
+            <input type="text" placeholder="Nombre" required>
+            <input type="email" placeholder="Correo electrónico" required>
+            <textarea placeholder="Mensaje" required></textarea>
+            <button type="submit" class="btn">Enviar Mensaje</button>
+        </form>
+
+        <iframe 
+            src="https://www.google.com/maps?q=Arganda+del+Rey,+Madrid&output=embed"
+            width="100%" height="300" style="border:0;" allowfullscreen="">
+        </iframe>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 EXIRAF Precision Systems - Todos los derechos reservados</p>
+</footer>
+
+</body>
+</html>
+
